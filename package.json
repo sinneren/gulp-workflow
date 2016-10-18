@@ -13,17 +13,23 @@
     "autoprefixer": "^6.5.1",
     "babelify": "^6.4.0",
     "browserify": "^11.2.0",
+    "css-mqpacker": "^5.0.1",
     "csswring": "^4.2.3",
     "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
     "gulp-connect": "^2.3.1",
     "gulp-if": "^1.2.5",
+    "gulp-imagemin": "^2.4.0",
     "gulp-jade": "^1.1.0",
+    "gulp-plumber": "^1.1.0",
     "gulp-postcss": "^6.2.0",
     "gulp-sass": "^2.3.2",
     "gulp-streamify": "^1.0.2",
     "gulp-uglify": "^1.5.4",
     "lost": "^6.8.1",
+    "postcss-base64": "^0.4.1",
     "postcss-cssnext": "^2.8.0",
+    "postcss-sorting": "^1.7.0",
     "vinyl-source-stream": "^1.1.0"
   }
 }
